@@ -67,3 +67,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "stesi/website_animate"]
+	path = stesi/website_animate
+	url = git@github.com:stesi/website_animate.git
+	branch = main
