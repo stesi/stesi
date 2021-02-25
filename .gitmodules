@@ -28,11 +28,6 @@
 	url = git@github.com:OCA/mis-builder.git
 	branch = 14.0
 
-[submodule "OCA/partner-contact"]
-	path = OCA/partner-contact
-	url = git@github.com:OCA/partner-contact.git
-	branch = 14.0
-
 [submodule "OCA/reporting-engine"]
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
@@ -51,11 +46,6 @@
 [submodule "OCA/stock-logistics-workflow"]
 	path = OCA/stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
-	branch = 14.0
-
-[submodule "OCA/timesheet"]
-	path = OCA/timesheet
-	url = git@github.com:OCA/timesheet.git
 	branch = 14.0
 
 [submodule "OCA/web"]
