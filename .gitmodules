@@ -23,11 +23,6 @@
 	url = git@github.com:OCA/intrastat-extrastat.git
 	branch = 14.0
 
-[submodule "odoo-italia/l10n-italy"]
-	path = odoo-italia/l10n-italy
-	url = git@github.com:odoo-italia/l10n-italy.git
-	branch = 14.0-supermerge
-
 [submodule "OCA/mis-builder"]
 	path = OCA/mis-builder
 	url = git@github.com:OCA/mis-builder.git
