@@ -72,3 +72,8 @@
 	path = stesi/website_animate
 	url = git@github.com:stesi/website_animate.git
 	branch = main
+
+[submodule "stesi/l10n-italy"]
+	path = stesi/l10n-italy
+	url = git@github.com:stesi/l10n-italy.git
+	branch = 14.0-supermerge
