@@ -77,3 +77,8 @@
 	path = stesi/timesheet_improvements
 	url = git@github.com:stesi/timesheet_improvements.git
 	branch = master
+
+[submodule "stesi/sythil_tech_support"]
+	path = stesi/sythil_tech_support
+	url = git@github.com:stesi/sythil_tech_support.git
+	branch = main
