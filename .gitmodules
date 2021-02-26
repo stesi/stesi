@@ -82,3 +82,8 @@
 	path = stesi/sythil_tech_support
 	url = git@github.com:stesi/sythil_tech_support.git
 	branch = main
+
+[submodule "stesi/website_axis_helpdesk"]
+	path = stesi/website_axis_helpdesk
+	url = git@github.com:stesi/website_axis_helpdesk.git
+	branch = main
