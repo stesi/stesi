@@ -87,3 +87,8 @@
 	path = stesi/website_axis_helpdesk
 	url = git@github.com:stesi/website_axis_helpdesk.git
 	branch = main
+
+[submodule "stesi/timesheet_improvements_team_system"]
+	path = stesi/timesheet_improvements_team_system
+	url = git@github.com:stesi/timesheet_improvements_team_system.git
+	branch = main
