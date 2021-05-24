@@ -92,3 +92,8 @@
 	path = stesi/timesheet_improvements_team_system
 	url = git@github.com:stesi/timesheet_improvements_team_system.git
 	branch = main
+
+[submodule "stesi/stesi_utilities"]
+	path = stesi/stesi_utilities
+	url = git@github.com:stesi/stesi_utilities.git
+	branch = 14.0
