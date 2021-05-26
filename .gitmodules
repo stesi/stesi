@@ -102,3 +102,8 @@
 	path = stesi/stesi_accounting
 	url = git@github.com:stesi/stesi_accounting.git
 	branch = 14.0
+
+[submodule "stesi/stesi_attendance_timesheet_improvements"]
+	path = stesi/stesi_attendance_timesheet_improvements
+	url = git@github.com:stesi/stesi_attendance_timesheet_improvements.git
+	branch = main
