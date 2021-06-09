@@ -1,1 +1,1 @@
-# stesi
+# stesi odoo sh
