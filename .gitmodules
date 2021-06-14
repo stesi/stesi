@@ -97,3 +97,8 @@
 	path = stesi/stesi_attendance_timesheet_improvements
 	url = git@github.com:stesi/stesi_attendance_timesheet_improvements.git
 	branch = main
+
+[submodule "stesi/stesi_sale_management"]
+	path = stesi/stesi_sale_management
+	url = git@github.com:stesi/stesi_sale_management.git
+	branch = main
