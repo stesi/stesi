@@ -102,3 +102,8 @@
 	path = stesi/stesi_sale_management
 	url = git@github.com:stesi/stesi_sale_management.git
 	branch = main
+
+[submodule "stesi/stesi_dynamic_snippet_filter"]
+	path = stesi/stesi_dynamic_snippet_filter
+	url = git@github.com:stesi/stesi_dynamic_snippet_filter.git
+	branch = 14.0
