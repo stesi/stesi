@@ -107,3 +107,8 @@
 	path = stesi/stesi_dynamic_snippet_filter
 	url = git@github.com:stesi/stesi_dynamic_snippet_filter.git
 	branch = 14.0
+
+[submodule "stesi/l10n-italy_missing"]
+	path = stesi/l10n-italy_missing
+	url = git@github.com:stesi/l10n-italy_missing.git
+	branch = main
