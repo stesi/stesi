@@ -112,3 +112,8 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy.git
 	branch = 14.0
+
+[submodule "stesi/l10n-italy_missing"]
+	path = stesi/l10n-italy_missing
+	url = git@github.com:stesi/l10n-italy_missing.git
+	branch = main
