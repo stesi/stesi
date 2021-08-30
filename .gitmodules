@@ -107,3 +107,8 @@
 	path = stesi/stesi_dynamic_snippet_filter
 	url = git@github.com:stesi/stesi_dynamic_snippet_filter.git
 	branch = 14.0
+
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
+	branch = 14.0
