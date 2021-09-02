@@ -58,11 +58,6 @@
 	url = git@github.com:stesi/website_animate.git
 	branch = main
 
-[submodule "stesi/l10n-italy"]
-	path = stesi/l10n-italy
-	url = git@github.com:stesi/l10n-italy.git
-	branch = 14.0-supermerge
-
 [submodule "stesi/partner-contact"]
 	path = stesi/partner-contact
 	url = git@github.com:stesi/partner-contact.git
@@ -107,3 +102,13 @@
 	path = stesi/stesi_dynamic_snippet_filter
 	url = git@github.com:stesi/stesi_dynamic_snippet_filter.git
 	branch = 14.0
+
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
+	branch = 14.0
+
+[submodule "stesi/l10n-italy_missing"]
+	path = stesi/l10n-italy_missing
+	url = git@github.com:stesi/l10n-italy_missing.git
+	branch = main
