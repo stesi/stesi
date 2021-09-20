@@ -122,3 +122,8 @@
 	path = stesi/stesi_rest
 	url = git@github.com:stesi/stesi_rest.git
 	branch = 14.0
+
+[submodule "stesi/attendance_rest"]
+	path = stesi/attendance_rest
+	url = git@github.com:stesi/attendance_rest.git
+	branch = main
