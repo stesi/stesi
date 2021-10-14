@@ -132,3 +132,8 @@
 	path = stesi/pragtech_odoo_hangout_meeting_integration
 	url = git@github.com:stesi/pragtech_odoo_hangout_meeting_integration.git
 	branch = 14.0
+
+[submodule "stesi/stesi_website"]
+	path = stesi/stesi_website
+	url = git@github.com:stesi/stesi_website.git
+	branch = 14.0
