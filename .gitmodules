@@ -127,3 +127,8 @@
 	path = stesi/attendance_rest
 	url = git@github.com:stesi/attendance_rest.git
 	branch = main
+
+[submodule "stesi/pragtech_odoo_hangout_meeting_integration"]
+	path = stesi/pragtech_odoo_hangout_meeting_integration
+	url = git@github.com:stesi/pragtech_odoo_hangout_meeting_integration.git
+	branch = 14.0
