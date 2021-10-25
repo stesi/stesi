@@ -137,3 +137,8 @@
 	path = stesi/stesi_website
 	url = git@github.com:stesi/stesi_website.git
 	branch = 14.0
+
+[submodule "stesi/payable_time"]
+	path = stesi/payable_time
+	url = git@github.com:stesi/payable_time.git
+	branch = 14.0
