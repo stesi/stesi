@@ -142,3 +142,8 @@
 	path = stesi/payable_time
 	url = git@github.com:stesi/payable_time.git
 	branch = 14.0
+
+[submodule "OCA/project"]
+	path = OCA/project
+	url = git@github.com:OCA/project.git
+	branch = 14.0
