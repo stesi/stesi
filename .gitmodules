@@ -148,7 +148,3 @@
 	url = git@github.com:OCA/project.git
 	branch = 14.0
 
-[submodule "OCA/connector-telephony"]
-	path = OCA/connector-telephony
-	url = git@github.com:OCA/connector-telephony.git
-	branch = 14.0
