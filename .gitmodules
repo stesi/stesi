@@ -148,3 +148,8 @@
 	url = git@github.com:OCA/project.git
 	branch = 14.0
 
+
+[submodule "stesi/voip_fix"]
+	path = stesi/voip_fix
+	url = git@github.com:stesi/voip_fix.git
+	branch = 14.0
