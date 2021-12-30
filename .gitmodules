@@ -153,3 +153,8 @@
 	path = stesi/voip_fix
 	url = git@github.com:stesi/voip_fix.git
 	branch = 14.0
+
+[submodule "OCA/hr"]
+	path = OCA/hr
+	url = git@github.com:OCA/hr.git
+	branch = 14.0
