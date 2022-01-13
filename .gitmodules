@@ -163,3 +163,8 @@
 	path = OCA/server-auth
 	url = git@github.com:OCA/server-auth.git
 	branch = 14.0
+
+[submodule "OCA/purchase-workflow"]
+	path = OCA/purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 14.0
