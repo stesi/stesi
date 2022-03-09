@@ -173,3 +173,8 @@
 	path = ingegniamo/partner_extra_info
 	url = git@github.com:ingegniamo/partner_extra_info.git
 	branch = 14.0
+
+[submodule "stesi/stesi_improvements"]
+	path = stesi/stesi_improvements
+	url = git@github.com:stesi/stesi_improvements.git
+	branch = 14.0
