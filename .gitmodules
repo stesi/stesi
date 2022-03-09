@@ -168,3 +168,8 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 14.0
+
+[submodule "ingegniamo/partner_extra_info"]
+	path = ingegniamo/partner_extra_info
+	url = git@github.com:ingegniamo/partner_extra_info.git
+	branch = 14.0
