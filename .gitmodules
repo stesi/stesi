@@ -188,3 +188,8 @@
 	path = ingegniamo/stesi_studio_customization
 	url = git@github.com:ingegniamo/stesi_studio_customization.git
 	branch = main
+
+[submodule "ingegniamo/ob_chatter_position"]
+	path = ingegniamo/ob_chatter_position
+	url = git@github.com:ingegniamo/ob_chatter_position.git
+	branch = 14.0
