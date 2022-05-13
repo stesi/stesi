@@ -193,3 +193,8 @@
 	path = ingegniamo/ob_chatter_position
 	url = git@github.com:ingegniamo/ob_chatter_position.git
 	branch = 14.0
+
+[submodule "ingegniamo/hr_timesheet_gift_spread"]
+	path = ingegniamo/hr_timesheet_gift_spread
+	url = git@github.com:ingegniamo/hr_timesheet_gift_spread.git
+	branch = 14.0
