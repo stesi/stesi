@@ -198,3 +198,8 @@
 	path = ingegniamo/hr_timesheet_gift_spread
 	url = git@github.com:ingegniamo/hr_timesheet_gift_spread.git
 	branch = 14.0
+
+[submodule "ingegniamo/hr_timesheet_gift"]
+	path = ingegniamo/hr_timesheet_gift
+	url = git@github.com:ingegniamo/hr_timesheet_gift.git
+	branch = 14.0
