@@ -203,3 +203,8 @@
 	path = ingegniamo/hr_timesheet_gift
 	url = git@github.com:ingegniamo/hr_timesheet_gift.git
 	branch = 14.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
