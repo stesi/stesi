@@ -203,3 +203,8 @@
 	path = stesi/l10n-italy
 	url = git@github.com:stesi/l10n-italy.git
 	branch = 14.0
+
+[submodule "ingegniamo/helpdesk_task_required"]
+	path = ingegniamo/helpdesk_task_required
+	url = git@github.com:ingegniamo/helpdesk_task_required.git
+	branch = 14.0
