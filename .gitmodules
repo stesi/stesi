@@ -208,3 +208,8 @@
 	path = ingegniamo/helpdesk_task_required
 	url = git@github.com:ingegniamo/helpdesk_task_required.git
 	branch = 14.0
+
+[submodule "ingegniamo/dashboard_ninja"]
+	path = ingegniamo/dashboard_ninja
+	url = git@github.com:ingegniamo/dashboard_ninja.git
+	branch = 14.0
