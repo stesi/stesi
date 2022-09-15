@@ -213,3 +213,8 @@
 	path = ingegniamo/dashboard_ninja
 	url = git@github.com:ingegniamo/dashboard_ninja.git
 	branch = 14.0
+
+[submodule "ingegniamo/stesi_task_show_gantt"]
+	path = ingegniamo/stesi_task_show_gantt
+	url = git@github.com:ingegniamo/stesi_task_show_gantt.git
+	branch = 14.0
