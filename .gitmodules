@@ -223,3 +223,8 @@
 	path = ingegniamo/timesheet_tag
 	url = git@github.com:ingegniamo/timesheet_tag.git
 	branch = 14.0
+
+[submodule "ingegniamo/project_sale_order_editable"]
+	path = ingegniamo/project_sale_order_editable
+	url = git@github.com:ingegniamo/project_sale_order_editable.git
+	branch = 14.0
