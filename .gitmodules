@@ -218,3 +218,8 @@
 	path = ingegniamo/stesi_task_show_gantt
 	url = git@github.com:ingegniamo/stesi_task_show_gantt.git
 	branch = 14.0
+
+[submodule "ingegniamo/timesheet_tag"]
+	path = ingegniamo/timesheet_tag
+	url = git@github.com:ingegniamo/timesheet_tag.git
+	branch = 14.0
