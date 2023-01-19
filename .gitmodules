@@ -228,3 +228,8 @@
 	path = ingegniamo/project_sale_order_editable
 	url = git@github.com:ingegniamo/project_sale_order_editable.git
 	branch = 14.0
+
+[submodule "ingegniamo/project_task_auto_assignment"]
+	path = ingegniamo/project_task_auto_assignment
+	url = git@github.com:ingegniamo/project_task_auto_assignment.git
+	branch = 14.0
