@@ -238,3 +238,8 @@
 	path = OCA/crm
 	url = git@github.com:OCA/crm.git
 	branch = 14.0
+
+[submodule "ingegniamo/l10n_fatturapa_document_type_fix"]
+	path = ingegniamo/l10n_fatturapa_document_type_fix
+	url = git@github.com:ingegniamo/l10n_fatturapa_document_type_fix.git
+	branch = 14.0
