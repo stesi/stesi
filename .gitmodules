@@ -56,7 +56,7 @@
 [submodule "stesi/website_animate"]
 	path = stesi/website_animate
 	url = git@github.com:stesi/website_animate.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/partner-contact"]
 	path = stesi/partner-contact
@@ -71,12 +71,12 @@
 [submodule "stesi/sythil_tech_support"]
 	path = stesi/sythil_tech_support
 	url = git@github.com:stesi/sythil_tech_support.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/website_axis_helpdesk"]
 	path = stesi/website_axis_helpdesk
 	url = git@github.com:stesi/website_axis_helpdesk.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/stesi_utilities"]
 	path = stesi/stesi_utilities
@@ -91,12 +91,12 @@
 [submodule "stesi/stesi_attendance_timesheet_improvements"]
 	path = stesi/stesi_attendance_timesheet_improvements
 	url = git@github.com:stesi/stesi_attendance_timesheet_improvements.git
-	branch = main
+	branch = 16.0
 
 [submodule "stesi/stesi_sale_management"]
 	path = stesi/stesi_sale_management
 	url = git@github.com:stesi/stesi_sale_management.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/stesi_dynamic_snippet_filter"]
 	path = stesi/stesi_dynamic_snippet_filter
@@ -116,7 +116,7 @@
 [submodule "stesi/attendance_rest"]
 	path = stesi/attendance_rest
 	url = git@github.com:stesi/attendance_rest.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/pragtech_odoo_hangout_meeting_integration"]
 	path = stesi/pragtech_odoo_hangout_meeting_integration
@@ -167,7 +167,7 @@
 [submodule "stesi/stesi_improvements"]
 	path = stesi/stesi_improvements
 	url = git@github.com:stesi/stesi_improvements.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/commission"]
 	path = OCA/commission
@@ -177,7 +177,7 @@
 [submodule "ingegniamo/stesi_studio_customization"]
 	path = ingegniamo/stesi_studio_customization
 	url = git@github.com:ingegniamo/stesi_studio_customization.git
-	branch = main
+	branch = 16.0
 
 [submodule "ingegniamo/ob_chatter_position"]
 	path = ingegniamo/ob_chatter_position
@@ -187,12 +187,12 @@
 [submodule "ingegniamo/hr_timesheet_gift_spread"]
 	path = ingegniamo/hr_timesheet_gift_spread
 	url = git@github.com:ingegniamo/hr_timesheet_gift_spread.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "ingegniamo/hr_timesheet_gift"]
 	path = ingegniamo/hr_timesheet_gift
 	url = git@github.com:ingegniamo/hr_timesheet_gift.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
@@ -222,7 +222,7 @@
 [submodule "ingegniamo/timesheet_tag"]
 	path = ingegniamo/timesheet_tag
 	url = git@github.com:ingegniamo/timesheet_tag.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "ingegniamo/project_sale_order_editable"]
 	path = ingegniamo/project_sale_order_editable
@@ -242,4 +242,9 @@
 [submodule "ingegniamo/l10n_fatturapa_document_type_fix"]
 	path = ingegniamo/l10n_fatturapa_document_type_fix
 	url = git@github.com:ingegniamo/l10n_fatturapa_document_type_fix.git
+	branch = 14.0
+
+[submodule "ingegniamo/hr_stesi_sheet"]
+	path = ingegniamo/hr_stesi_sheet
+	url = git@github.com:ingegniamo/hr_stesi_sheet.git
 	branch = 14.0
