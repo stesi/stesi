@@ -56,7 +56,7 @@
 [submodule "stesi/website_animate"]
 	path = stesi/website_animate
 	url = git@github.com:stesi/website_animate.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/partner-contact"]
 	path = stesi/partner-contact
@@ -71,12 +71,12 @@
 [submodule "stesi/sythil_tech_support"]
 	path = stesi/sythil_tech_support
 	url = git@github.com:stesi/sythil_tech_support.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/website_axis_helpdesk"]
 	path = stesi/website_axis_helpdesk
 	url = git@github.com:stesi/website_axis_helpdesk.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/stesi_utilities"]
 	path = stesi/stesi_utilities
@@ -96,7 +96,7 @@
 [submodule "stesi/stesi_sale_management"]
 	path = stesi/stesi_sale_management
 	url = git@github.com:stesi/stesi_sale_management.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/stesi_dynamic_snippet_filter"]
 	path = stesi/stesi_dynamic_snippet_filter
@@ -116,7 +116,7 @@
 [submodule "stesi/attendance_rest"]
 	path = stesi/attendance_rest
 	url = git@github.com:stesi/attendance_rest.git
-	branch = main
+	branch = 14.0
 
 [submodule "stesi/pragtech_odoo_hangout_meeting_integration"]
 	path = stesi/pragtech_odoo_hangout_meeting_integration
