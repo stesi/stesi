@@ -63,11 +63,6 @@
 	url = git@github.com:stesi/partner-contact.git
 	branch = 14.0
 
-[submodule "stesi/timesheet"]
-	path = stesi/timesheet
-	url = git@github.com:stesi/timesheet.git
-	branch = 14.0
-
 [submodule "stesi/sythil_tech_support"]
 	path = stesi/sythil_tech_support
 	url = git@github.com:stesi/sythil_tech_support.git
