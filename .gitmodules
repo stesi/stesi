@@ -244,7 +244,7 @@
 	url = git@github.com:ingegniamo/hr_stesi_sheet.git
 	branch = 16.0
 
-[submodule "OCA/l10n-italy"]
-	path = OCA/l10n-italy
-	url = git@github.com:stesi/l10n-italy.git
+[submodule "stesi/l10n-italy"]
+	path = stesi/l10n-italy
+	url = git@github.com:stesi/l10n-italy
 	branch = 16.0
