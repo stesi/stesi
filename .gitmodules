@@ -248,3 +248,6 @@
 	path = stesi/l10n-italy
 	url = git@github.com:stesi/l10n-italy
 	branch = 16.0
+[submodule "ingegniamo/crm_phonecall"]
+	path = ingegniamo/crm_phonecall
+	url = git@github.com:ingegniamo/crm_phonecall.git
