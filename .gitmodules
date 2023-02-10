@@ -199,11 +199,6 @@
 	url = git@github.com:OCA/partner-contact.git
 	branch = 16.0
 
-[submodule "OCA/l10n-italy"]
-	path = OCA/l10n-italy
-	url = git@github.com:OCA/l10n-italy.git
-	branch = 16.0
-
 [submodule "ingegniamo/helpdesk_task_required"]
 	path = ingegniamo/helpdesk_task_required
 	url = git@github.com:ingegniamo/helpdesk_task_required.git
@@ -247,4 +242,9 @@
 [submodule "ingegniamo/hr_stesi_sheet"]
 	path = ingegniamo/hr_stesi_sheet
 	url = git@github.com:ingegniamo/hr_stesi_sheet.git
+	branch = 16.0
+
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
 	branch = 16.0
