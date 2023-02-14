@@ -251,3 +251,8 @@
 	path = ingegniamo/chatter_position_right
 	url = git@github.com:ingegniamo/chatter_position_right.git
 	branch = 16.0
+
+[submodule "ingegniamo/odoo_16_workaround"]
+	path = ingegniamo/odoo_16_workaround
+	url = git@github.com:ingegniamo/odoo_16_workaround.git
+	branch = 16.0
