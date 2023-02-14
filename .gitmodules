@@ -246,3 +246,8 @@
 [submodule "ingegniamo/crm_phonecall"]
 	path = ingegniamo/crm_phonecall
 	url = git@github.com:ingegniamo/crm_phonecall.git
+
+[submodule "ingegniamo/chatter_position_right"]
+	path = ingegniamo/chatter_position_right
+	url = git@github.com:ingegniamo/chatter_position_right.git
+	branch = 16.0
