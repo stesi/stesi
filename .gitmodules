@@ -134,11 +134,6 @@
 	branch = 16.0
 
 
-[submodule "stesi/voip_fix"]
-	path = stesi/voip_fix
-	url = git@github.com:stesi/voip_fix.git
-	branch = 14.0
-
 [submodule "OCA/hr"]
 	path = OCA/hr
 	url = git@github.com:OCA/hr.git
@@ -239,10 +234,6 @@
 	url = git@github.com:ingegniamo/hr_stesi_sheet.git
 	branch = 16.0
 
-[submodule "stesi/l10n-italy"]
-	path = stesi/l10n-italy
-	url = git@github.com:stesi/l10n-italy
-	branch = 16.0
 [submodule "ingegniamo/crm_phonecall"]
 	path = ingegniamo/crm_phonecall
 	url = git@github.com:ingegniamo/crm_phonecall.git
@@ -255,4 +246,8 @@
 [submodule "ingegniamo/odoo_16_workaround"]
 	path = ingegniamo/odoo_16_workaround
 	url = git@github.com:ingegniamo/odoo_16_workaround.git
+	branch = 16.0
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy
 	branch = 16.0
