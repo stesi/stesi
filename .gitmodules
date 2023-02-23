@@ -251,3 +251,8 @@
 	path = OCA/l10n-italy
 	url = git@github.com:OCA/l10n-italy
 	branch = 16.0
+
+[submodule "ingegniamo/toggle_developer_mode"]
+	path = ingegniamo/toggle_developer_mode
+	url = git@github.com:ingegniamo/toggle_developer_mode.git
+	branch = 16.0
