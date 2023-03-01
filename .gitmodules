@@ -256,3 +256,8 @@
 	path = ingegniamo/toggle_developer_mode
 	url = git@github.com:ingegniamo/toggle_developer_mode.git
 	branch = 16.0
+
+[submodule "ingegniamo/hr_stesi_sheet_project_timesheet_holidays"]
+	path = ingegniamo/hr_stesi_sheet_project_timesheet_holidays
+	url = git@github.com:ingegniamo/hr_stesi_sheet_project_timesheet_holidays.git
+	branch = 16.0
