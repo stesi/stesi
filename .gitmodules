@@ -266,3 +266,8 @@
 	path = ingegniamo/l10n_it_edi
 	url = git@github.com:ingegniamo/l10n_it_edi.git
 	branch = 16.0
+
+[submodule "ingegniamo/timesheet_sheet_expected_hours"]
+	path = ingegniamo/timesheet_sheet_expected_hours
+	url = git@github.com:ingegniamo/timesheet_sheet_expected_hours.git
+	branch = 16.0
