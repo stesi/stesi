@@ -286,3 +286,8 @@
 	path = ingegniamo/sale_project_sale_order_items
 	url = git@github.com:ingegniamo/sale_project_sale_order_items.git
 	branch = 16.0
+
+[submodule "ingegniamo/report_dynamic_content_sale"]
+	path = ingegniamo/report_dynamic_content_sale
+	url = git@github.com:ingegniamo/report_dynamic_content_sale.git
+	branch = 16.0
