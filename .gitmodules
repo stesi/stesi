@@ -271,3 +271,23 @@
 	path = ingegniamo/timesheet_sheet_expected_hours
 	url = git@github.com:ingegniamo/timesheet_sheet_expected_hours.git
 	branch = 16.0
+
+[submodule "ingegniamo/payable_time"]
+	path = ingegniamo/payable_time
+	url = git@github.com:ingegniamo/payable_time.git
+	branch = 16.0
+
+[submodule "ingegniamo/report_dynamic_content"]
+	path = ingegniamo/report_dynamic_content
+	url = git@github.com:ingegniamo/report_dynamic_content.git
+	branch = 16.0
+
+[submodule "ingegniamo/sale_project_sale_order_items"]
+	path = ingegniamo/sale_project_sale_order_items
+	url = git@github.com:ingegniamo/sale_project_sale_order_items.git
+	branch = 16.0
+
+[submodule "ingegniamo/report_dynamic_content_sale"]
+	path = ingegniamo/report_dynamic_content_sale
+	url = git@github.com:ingegniamo/report_dynamic_content_sale.git
+	branch = 16.0
