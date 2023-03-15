@@ -272,11 +272,6 @@
 	url = git@github.com:ingegniamo/timesheet_sheet_expected_hours.git
 	branch = 16.0
 
-[submodule "ingegniamo/payable_time"]
-	path = ingegniamo/payable_time
-	url = git@github.com:ingegniamo/payable_time.git
-	branch = 16.0
-
 [submodule "ingegniamo/report_dynamic_content"]
 	path = ingegniamo/report_dynamic_content
 	url = git@github.com:ingegniamo/report_dynamic_content.git
