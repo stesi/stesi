@@ -291,3 +291,7 @@
 	path = ingegniamo/timesheet_payable_time
 	url = git@github.com:ingegniamo/timesheet_payable_time.git
 	branch = 16.0
+[submodule "ingegniamo/whatsapp_redirect"]
+	path = ingegniamo/whatsapp_redirect
+	url = git@github.com:ingegniamo/whatsapp_redirect.git
+	branch = 16.0
