@@ -295,3 +295,8 @@
 	path = ingegniamo/whatsapp_redirect
 	url = git@github.com:ingegniamo/whatsapp_redirect.git
 	branch = 16.0
+
+[submodule "ingegniamo/project_task_concat_project"]
+	path = ingegniamo/project_task_concat_project
+	url = git@github.com:ingegniamo/project_task_concat_project.git
+	branch = 16.0
