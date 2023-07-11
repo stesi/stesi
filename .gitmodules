@@ -305,3 +305,8 @@
 	path = ingegniamo/project_sequence_category
 	url = git@github.com:ingegniamo/project_sequence_category.git
 	branch = 16.0
+
+[submodule "OCA/timesheet"]
+	path = OCA/timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 16.0
