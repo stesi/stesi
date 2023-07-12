@@ -310,3 +310,8 @@
 	path = OCA/timesheet
 	url = git@github.com:OCA/timesheet.git
 	branch = 16.0
+
+[submodule "ingegniamo/odoo_screen_recording"]
+	path = ingegniamo/odoo_screen_recording
+	url = git@github.com:ingegniamo/odoo_screen_recording.git
+	branch = 16.0
