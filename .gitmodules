@@ -315,3 +315,8 @@
 	path = ingegniamo/odoo_screen_recording
 	url = git@github.com:ingegniamo/odoo_screen_recording.git
 	branch = 16.0
+
+[submodule "stesi/odoo_email_cc_bcc"]
+	path = stesi/odoo_email_cc_bcc
+	url = git@github.com:stesi/odoo_email_cc_bcc.git
+	branch = 16.0
