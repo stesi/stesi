@@ -320,3 +320,8 @@
 	path = stesi/odoo_email_cc_bcc
 	url = git@github.com:stesi/odoo_email_cc_bcc.git
 	branch = 16.0
+
+[submodule "ingegniamo/website_crm_partner_assign_m2m"]
+	path = ingegniamo/website_crm_partner_assign_m2m
+	url = git@github.com:ingegniamo/website_crm_partner_assign_m2m.git
+	branch = 16.0
