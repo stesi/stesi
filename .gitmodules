@@ -330,3 +330,8 @@
 	path = ingegniamo/website_sale_temp_fix_pricelist
 	url = git@github.com:ingegniamo/website_sale_temp_fix_pricelist.git
 	branch = 16.0
+
+[submodule "ingegniamo/project_manager_on_task"]
+	path = ingegniamo/project_manager_on_task
+	url = git@github.com:ingegniamo/project_manager_on_task.git
+	branch = 16.0
