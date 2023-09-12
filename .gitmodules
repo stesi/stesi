@@ -335,3 +335,8 @@
 	path = ingegniamo/project_manager_on_task
 	url = git@github.com:ingegniamo/project_manager_on_task.git
 	branch = 16.0
+
+[submodule "ingegniamo/timesheet_total_for_employee_on_line"]
+	path = ingegniamo/timesheet_total_for_employee_on_line
+	url = git@github.com:ingegniamo/timesheet_total_for_employee_on_line.git
+	branch = 16.0
