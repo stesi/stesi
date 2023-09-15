@@ -340,3 +340,8 @@
 	path = ingegniamo/timesheet_total_for_employee_on_line
 	url = git@github.com:ingegniamo/timesheet_total_for_employee_on_line.git
 	branch = 16.0
+
+[submodule "ingegniamo/mrp_progress_track"]
+	path = ingegniamo/mrp_progress_track
+	url = git@github.com:ingegniamo/mrp_progress_track.git
+	branch = 16.0
