@@ -345,3 +345,8 @@
 	path = ingegniamo/mrp_progress_track
 	url = git@github.com:ingegniamo/mrp_progress_track.git
 	branch = 16.0
+
+[submodule "ingegniamo/crm_sale_project_end_customer"]
+	path = ingegniamo/crm_sale_project_end_customer
+	url = git@github.com:ingegniamo/crm_sale_project_end_customer.git
+	branch = 16.0
