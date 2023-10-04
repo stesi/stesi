@@ -350,3 +350,8 @@
 	path = ingegniamo/crm_sale_project_end_customer
 	url = git@github.com:ingegniamo/crm_sale_project_end_customer.git
 	branch = 16.0
+
+[submodule "ingegniamo/sh_email_enhancement"]
+	path = ingegniamo/sh_email_enhancement
+	url = git@github.com:ingegniamo/sh_email_enhancement.git
+	branch = 16.0
