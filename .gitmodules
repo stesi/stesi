@@ -355,3 +355,6 @@
 	path = ingegniamo/sh_email_enhancement
 	url = git@github.com:ingegniamo/sh_email_enhancement.git
 	branch = 16.0
+[submodule "stesi/web-mig"]
+	path = stesi/web-mig
+	url = git@github.com:stesi/web-mig.git
