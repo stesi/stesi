@@ -363,3 +363,8 @@
 	path = ingegniamo/google_drive_picker
 	url = git@github.com:ingegniamo/google_drive_picker.git
 	branch = 16.0
+
+[submodule "ingegniamo/appointment_all_user_available"]
+	path = ingegniamo/appointment_all_user_available
+	url = git@github.com:ingegniamo/appointment_all_user_available.git
+	branch = 16.0
