@@ -368,3 +368,8 @@
 	path = ingegniamo/appointment_all_user_available
 	url = git@github.com:ingegniamo/appointment_all_user_available.git
 	branch = 16.0
+
+[submodule "ingegniamo/appointment_website_visibility"]
+	path = ingegniamo/appointment_website_visibility
+	url = git@github.com:ingegniamo/appointment_website_visibility.git
+	branch = 16.0
