@@ -355,3 +355,11 @@
 	path = ingegniamo/sh_email_enhancement
 	url = git@github.com:ingegniamo/sh_email_enhancement.git
 	branch = 16.0
+[submodule "stesi/web-mig"]
+	path = stesi/web-mig
+	url = git@github.com:stesi/web-mig.git
+
+[submodule "ingegniamo/google_drive_picker"]
+	path = ingegniamo/google_drive_picker
+	url = git@github.com:ingegniamo/google_drive_picker.git
+	branch = 16.0
