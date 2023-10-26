@@ -378,3 +378,8 @@
 	path = ingegniamo/l10n_it_edi_account_move_attachment_zip
 	url = git@github.com:ingegniamo/l10n_it_edi_account_move_attachment_zip.git
 	branch = 16.0
+
+[submodule "OCA/knowledge"]
+	path = OCA/knowledge
+	url = git@github.com:OCA/knowledge.git
+	branch = 16.0
