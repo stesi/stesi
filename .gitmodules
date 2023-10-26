@@ -373,3 +373,8 @@
 	path = ingegniamo/appointment_website_visibility
 	url = git@github.com:ingegniamo/appointment_website_visibility.git
 	branch = 16.0
+
+[submodule "ingegniamo/l10n_it_edi_account_move_attachment_zip"]
+	path = ingegniamo/l10n_it_edi_account_move_attachment_zip
+	url = git@github.com:ingegniamo/l10n_it_edi_account_move_attachment_zip.git
+	branch = 16.0
