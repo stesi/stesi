@@ -383,3 +383,8 @@
 	path = OCA/knowledge
 	url = git@github.com:OCA/knowledge.git
 	branch = 16.0
+
+[submodule "ingegniamo/hr_organizational_chart"]
+	path = ingegniamo/hr_organizational_chart
+	url = git@github.com:ingegniamo/hr_organizational_chart.git
+	branch = 16.0
