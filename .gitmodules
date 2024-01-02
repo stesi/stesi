@@ -388,3 +388,8 @@
 	path = ingegniamo/hr_organizational_chart
 	url = git@github.com:ingegniamo/hr_organizational_chart.git
 	branch = 16.0
+
+[submodule "ingegniamo/l10n_it_edi_fiscal_payment_term"]
+	path = ingegniamo/l10n_it_edi_fiscal_payment_term
+	url = git@github.com:ingegniamo/l10n_it_edi_fiscal_payment_term.git
+	branch = 16.0
