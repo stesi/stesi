@@ -8,44 +8,9 @@
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 16.0
 
-[submodule "OCA/account-invoicing"]
-	path = OCA/account-invoicing
-	url = git@github.com:OCA/account-invoicing.git
-	branch = 16.0
-
-[submodule "OCA/account-payment"]
-	path = OCA/account-payment
-	url = git@github.com:OCA/account-payment.git
-	branch = 16.0
-
-[submodule "OCA/intrastat-extrastat"]
-	path = OCA/intrastat-extrastat
-	url = git@github.com:OCA/intrastat-extrastat.git
-	branch = 16.0
-
-[submodule "OCA/mis-builder"]
-	path = OCA/mis-builder
-	url = git@github.com:OCA/mis-builder.git
-	branch = 16.0
-
-[submodule "OCA/reporting-engine"]
-	path = OCA/reporting-engine
-	url = git@github.com:OCA/reporting-engine.git
-	branch = 16.0
-
-[submodule "OCA/server-tools"]
-	path = OCA/server-tools
-	url = git@github.com:OCA/server-tools.git
-	branch = 16.0
-
 [submodule "OCA/server-ux"]
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
-	branch = 16.0
-
-[submodule "OCA/stock-logistics-workflow"]
-	path = OCA/stock-logistics-workflow
-	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 16.0
 
 [submodule "OCA/web"]
@@ -88,29 +53,9 @@
 	url = git@github.com:OCA/project.git
 	branch = 16.0
 
-[submodule "OCA/hr"]
-	path = OCA/hr
-	url = git@github.com:OCA/hr.git
-	branch = 16.0
-
-[submodule "OCA/server-auth"]
-	path = OCA/server-auth
-	url = git@github.com:OCA/server-auth.git
-	branch = 16.0
-
-[submodule "OCA/purchase-workflow"]
-	path = OCA/purchase-workflow
-	url = git@github.com:OCA/purchase-workflow.git
-	branch = 16.0
-
 [submodule "stesi/stesi_improvements"]
 	path = stesi/stesi_improvements
 	url = git@github.com:stesi/stesi_improvements.git
-	branch = 16.0
-
-[submodule "OCA/commission"]
-	path = OCA/commission
-	url = git@github.com:OCA/commission.git
 	branch = 16.0
 
 [submodule "ingegniamo/stesi_studio_customization"]
@@ -153,11 +98,6 @@
 [submodule "ingegniamo/project_task_auto_assignment"]
 	path = ingegniamo/project_task_auto_assignment
 	url = git@github.com:ingegniamo/project_task_auto_assignment.git
-	branch = 16.0
-
-[submodule "OCA/crm"]
-	path = OCA/crm
-	url = git@github.com:OCA/crm.git
 	branch = 16.0
 
 [submodule "ingegniamo/hr_stesi_sheet"]
