@@ -269,3 +269,8 @@
 	path = ingegniamo/mrp_progress_track_fields
 	url = git@github.com:ingegniamo/mrp_progress_track_fields.git
 	branch = 16.0
+
+[submodule "ingegniamo/project_task_sequence_tree"]
+	path = ingegniamo/project_task_sequence_tree
+	url = git@github.com:ingegniamo/project_task_sequence_tree.git
+	branch = 16.0
