@@ -274,3 +274,8 @@
 	path = ingegniamo/project_task_sequence_tree
 	url = git@github.com:ingegniamo/project_task_sequence_tree.git
 	branch = 16.0
+
+[submodule "ingegniamo/account_analytic_dynamic_generator"]
+	path = ingegniamo/account_analytic_dynamic_generator
+	url = git@github.com:ingegniamo/account_analytic_dynamic_generator.git
+	branch = 16.0
